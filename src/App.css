@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(159, 230, 236) !important;
+  display: flex;
+  justify-content: center;
+}
+.container {
+  display: block;
+  width: 500px;
+  margin-top: 120px;
+}
+
+.titulo {
+  text-align: center;
+  color: white;
+}
+
+#cardstyle{
+
+max-width: 40rem;
+
+
+}
